@@ -1,7 +1,7 @@
 # Data-Science-Project
 Weather Dataset Exploration and Visualization
 
-# Objective:
+# Objectives:
 1.Download a weather dataset from Kaggle.
 
 2.Explore various aspects such as Temperature, Relative Humidity,Visibility in KM and Temperature for Dew Point.
@@ -11,6 +11,7 @@ Weather Dataset Exploration and Visualization
 # Steps:
 # 1.Data Collection:
 Access the Weather dataset from Kaggle, which includes information on Temperature,Relative Humidity, Visibility in KM and Temperature for Dew Point.
+
 Dataset Link:  https://www.kaggle.com/datasets/ayushmi77al/weather-data-set-for-beginners?resource=download
 
 # 2.Data cleaning and  Preprocessing:
